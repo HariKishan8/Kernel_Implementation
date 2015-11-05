@@ -1,0 +1,25 @@
+FUN 1: TICK [3]
+FUN 1: TICK [4]
+FUN 1: TICK [5]
+FUN 1: TICK [6]
+FUN 1: TICK [7]
+FUN 1: TICK [8]
+FUN 1: TICK [9]
+Please wait !! Yielding
+Please wait !! Yielding
+|   2
+200000 2 2Writing to file...
+Please wait !! Yielding
+FUN 4 IN BURST[1]
+FUN 4: TICK [0]
+FUN 4: TICK [1]
+FUN 4: TICK [2]
+FUN 4: TICK [3]
+FUN 4: TICK [4]
+FUN 4: TICK [5]
+FUN 4: TICK [6]
+FUN 4: TICK [7]
+FUN 4: TICK [8]
+FUN 4: TICK [9]
+Please wait !! Yielding
+
